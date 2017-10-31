@@ -1,0 +1,11 @@
+.container {
+  float : left;
+  width:60%; /*  use your width here */
+  margin-left: 8%;
+  text-align: justify;
+}
+.container1{
+  float : right;
+  width : 30%;
+  margin-top: 1%;
+}

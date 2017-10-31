@@ -1,0 +1,29 @@
+.img.resize{
+  max-height: 50%;
+  width:100%;
+}
+
+li a {
+  color: white;
+}
+.navbar-inverse{
+  background-color: coral;
+  height: 50%;
+
+}
+.nav{
+  text-align:center;
+  margin-left:10%;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.btn{
+  margin-left: 1%;
+  margin-top: 0.5%;
+  alignment: center;
+}
+
+
