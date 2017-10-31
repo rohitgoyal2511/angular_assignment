@@ -1,0 +1,85 @@
+.body{
+    background-color: lightgrey;
+}
+
+.first{
+    height: 20ch;
+    background: #ff252e;
+    width: 100%;
+}
+.header{
+    margin: 0;
+    position: absolute;
+    font-size: 5ch;
+    color: white;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Anton', sans-serif;
+}
+.con{
+    background-color: gray;
+}
+
+.active_div{
+    display: inline-flex;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Anton', sans-serif;
+ }
+
+.complete_div{
+    display: inline-flex;
+}
+
+.delete_div{
+    display: inline-flex;
+}
+
+.complete_div{
+    display: flex;
+}
+
+.delete_div{
+    display: flex;
+}
+
+.dynamic {
+    display : flex;
+}
+
+.div123 {
+    font-size: x-large;
+    font-family: GillSans, Calibri, Trebuchet, sans-serif, black;
+}
+
+.strike {
+    color: red;
+}
+
+/*.btn1 {*/
+    /*color: white;*/
+    /*background: green;*/
+/*}*/
+
+/*.btn2 {*/
+    /*color: white ;*/
+    /*background: blue;*/
+/*}*/
+
+/*.btn3 {*/
+    /*color: white;*/
+    /*background: red;*/
+/*}*/
+
+.dynamic {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
